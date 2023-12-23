@@ -56,7 +56,9 @@ header a{
 }
 .carousel .list .item .content .author{
     font-weight: bold;
-    font-size: 10px;
+    font-size: 50px;
+    letter-spacing: 3px;
+    color: aqua;
     
 }
 .carousel .list .item .content .title,
